@@ -1,0 +1,8 @@
+.logo-container {
+    display: flex;
+    height: 100%;
+}
+svg {
+    margin: auto;
+    height: 33%;
+}
